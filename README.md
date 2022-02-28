@@ -1,7 +1,8 @@
-# Using VBA to analyze stock data
+# Stock Analysis
 
 ## Overview of Project
-Using VBA to analyze Green Energy Stock data
+
+To analyze Green Energy Stock data by using VBA.
 
 ### Purpose
 
@@ -34,7 +35,6 @@ Refactoring code is more common and efficient with fewer steps. It’s easier to
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/88747464/131193641-4a498965-e136-4c85-8128-846589509911.png)
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/88747464/131193645-5d7a5fa9-63ad-4e17-b1a5-a572698106c9.png)
-
 
 ### Disadvantages of Refactoring Codes
 
