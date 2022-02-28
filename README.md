@@ -2,15 +2,13 @@
 
 ## Overview of Project
 
-To analyze Green Energy Stock data by using VBA.
+To analyze Green Energy Stock data by using VBA and refactoring the solution code to loop through all the data.
 
 ### Purpose
 
 We helped Steve to first analyze the Daqo’s stock by calculating the yearly return to make sure his parents were making a valuable investment. 
 
 Then we helped Steve to choose a better stock by analyzing all the stocks. It’s important to find out how actively each stock was traded. Next, we would compare them by finding out how was the return for each stock for both 2017 and 2018.
-
-In this project, we will edit, or refactor the solution code to loop through all the data that we did in this module. Then, we will determine any advantages or disadvantages of using VBA and refactoring code.
 
 ## Results
 
